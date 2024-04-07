@@ -1,0 +1,128 @@
+{
+  "PadBindings": [
+    {
+      "GameAction": "ACT_CAMERA_RESET",
+      "Bind": "PAD_R3"
+    },
+    {
+      "GameAction": "ACT_CHANGE",
+      "Bind": "PAD_X"
+    },
+    {
+      "GameAction": "ACT_JUMP",
+      "Bind": "PAD_A"
+    },
+    {
+      "GameAction": "ACT_DASH",
+      "Bind": "PAD_L1"
+    },
+    {
+      "GameAction": "ACT_COMBI_MODE",
+      "Bind": "PAD_R2"
+    },
+    {
+      "GameAction": "ACT_ATTACK",
+      "Bind": "PAD_B"
+    },
+    {
+      "GameAction": "ACT_RESCUE",
+      "Bind": "PAD_X"
+    },
+    {
+      "GameAction": "ACT_DODGE",
+      "Bind": "PAD_L1"
+    },
+    {
+      "GameAction": "ACT_SKILL",
+      "Bind": "PAD_R1"
+    },
+    {
+      "GameAction": "ACT_TARGET",
+      "Bind": "PAD_R3"
+    },
+    {
+      "GameAction": "ACT_TARGET_CHANGE_LEFT",
+      "Bind": "PAD_StickRL"
+    },
+    {
+      "GameAction": "ACT_TARGET_CHANGE_RIGHT",
+      "Bind": "PAD_StickRR"
+    },
+    {
+      "GameAction": "ACT_TARGET_CHANGE_STRONG",
+      "Bind": "PAD_StickRU"
+    },
+    {
+      "GameAction": "ACT_TARGET_CHANGE_NEAR",
+      "Bind": "PAD_StickRD"
+    },
+    {
+      "GameAction": "ACT_MANA_STRING",
+      "Bind": "PAD_L2"
+    },
+    {
+      "GameAction": "ACT_MANA_RIDE",
+      "Bind": "PAD_Y"
+    },
+    {
+      "GameAction": "ACT_MANA_SENSE",
+      "Bind": "PAD_R3"
+    },
+    {
+      "GameAction": "ACT_MANA_RIDE_BRAKE",
+      "Bind": "PAD_B"
+    },
+    {
+      "GameAction": "ACT_MSG_LOG",
+      "Bind": "PAD_DPadU"
+    },
+    {
+      "GameAction": "ACT_MAP_MENU",
+      "Bind": "PAD_DPadL"
+    },
+    {
+      "GameAction": "ACT_ITEM_MENU",
+      "Bind": "PAD_DPadR"
+    },
+    {
+      "GameAction": "ACT_ADV_LOG",
+      "Bind": "PAD_DPadD"
+    },
+    {
+      "GameAction": "ACT_MSG_AUTO_SEND",
+      "Bind": "PAD_R1"
+    },
+    {
+      "GameAction": "ACT_SCOPE",
+      "Bind": "PAD_L2"
+    },
+    {
+      "GameAction": "ACT_SHIP_CAMERA_CHANGE",
+      "Bind": "PAD_X"
+    },
+    {
+      "GameAction": "ACT_SHIP_BRAKE",
+      "Bind": "PAD_B"
+    },
+    {
+      "GameAction": "ACT_MANA_SAIL",
+      "Bind": "PAD_L1"
+    },
+    {
+      "GameAction": "ACT_SHOT_CANNON",
+      "Bind": "PAD_A"
+    },
+    {
+      "GameAction": "ACT_EX_BULLET",
+      "Bind": "PAD_Y"
+    },
+    {
+      "GameAction": "ACT_SP_BULLET_FUNCTION",
+      "Bind": "PAD_R1"
+    },
+    {
+      "GameAction": "ACT_MANA_BARRIER",
+      "Bind": "PAD_R2"
+    }
+  ]
+}

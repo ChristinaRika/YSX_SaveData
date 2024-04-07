@@ -1,0 +1,436 @@
+{
+  "PadBindings": [
+    {
+      "GameAction": "ACT_CAMERA_RESET",
+      "Bind": "KEY_G"
+    },
+    {
+      "GameAction": "ACT_CAMERA_RESET",
+      "Bind": "MOUSE_Middle"
+    },
+    {
+      "GameAction": "ACT_CAMERA_RESET",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_CHANGE",
+      "Bind": "KEY_Q"
+    },
+    {
+      "GameAction": "ACT_CHANGE",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_CHANGE",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_JUMP",
+      "Bind": "KEY_V"
+    },
+    {
+      "GameAction": "ACT_JUMP",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_JUMP",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_DASH",
+      "Bind": "KEY_Space"
+    },
+    {
+      "GameAction": "ACT_DASH",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_DASH",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_COMBI_MODE",
+      "Bind": "KEY_B"
+    },
+    {
+      "GameAction": "ACT_COMBI_MODE",
+      "Bind": "MOUSE_Right"
+    },
+    {
+      "GameAction": "ACT_COMBI_MODE",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_ATTACK",
+      "Bind": "KEY_Enter"
+    },
+    {
+      "GameAction": "ACT_ATTACK",
+      "Bind": "MOUSE_Left"
+    },
+    {
+      "GameAction": "ACT_ATTACK",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_RESCUE",
+      "Bind": "KEY_Q"
+    },
+    {
+      "GameAction": "ACT_RESCUE",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_RESCUE",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_DODGE",
+      "Bind": "KEY_Space"
+    },
+    {
+      "GameAction": "ACT_DODGE",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_DODGE",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_SKILL",
+      "Bind": "KEY_F"
+    },
+    {
+      "GameAction": "ACT_SKILL",
+      "Bind": "MOUSE_Middle"
+    },
+    {
+      "GameAction": "ACT_SKILL",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_TARGET",
+      "Bind": "KEY_G"
+    },
+    {
+      "GameAction": "ACT_TARGET",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_TARGET",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_MANA_STRING",
+      "Bind": "KEY_E"
+    },
+    {
+      "GameAction": "ACT_MANA_STRING",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_MANA_STRING",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_MANA_RIDE",
+      "Bind": "KEY_R"
+    },
+    {
+      "GameAction": "ACT_MANA_RIDE",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_MANA_RIDE",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_MANA_SENSE",
+      "Bind": "KEY_T"
+    },
+    {
+      "GameAction": "ACT_MANA_SENSE",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_MANA_SENSE",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_MANA_RIDE_BRAKE",
+      "Bind": "KEY_Enter"
+    },
+    {
+      "GameAction": "ACT_MANA_RIDE_BRAKE",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_MANA_RIDE_BRAKE",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_MOVE_FW",
+      "Bind": "KEY_W"
+    },
+    {
+      "GameAction": "ACT_MOVE_FW",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_MOVE_FW",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_MOVE_BK",
+      "Bind": "KEY_S"
+    },
+    {
+      "GameAction": "ACT_MOVE_BK",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_MOVE_BK",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_MOVE_LF",
+      "Bind": "KEY_A"
+    },
+    {
+      "GameAction": "ACT_MOVE_LF",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_MOVE_LF",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_MOVE_RT",
+      "Bind": "KEY_D"
+    },
+    {
+      "GameAction": "ACT_MOVE_RT",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_MOVE_RT",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_MAIN_MENU",
+      "Bind": "KEY_D1"
+    },
+    {
+      "GameAction": "ACT_MAIN_MENU",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_MAIN_MENU",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_ACTION_MENU",
+      "Bind": "KEY_D2"
+    },
+    {
+      "GameAction": "ACT_ACTION_MENU",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_ACTION_MENU",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_SHOT_CANNON",
+      "Bind": "KEY_Enter"
+    },
+    {
+      "GameAction": "ACT_SHOT_CANNON",
+      "Bind": "MOUSE_Left"
+    },
+    {
+      "GameAction": "ACT_SHOT_CANNON",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_EX_BULLET",
+      "Bind": "KEY_R"
+    },
+    {
+      "GameAction": "ACT_EX_BULLET",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_EX_BULLET",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_SP_BULLET_FUNCTION",
+      "Bind": "KEY_F"
+    },
+    {
+      "GameAction": "ACT_SP_BULLET_FUNCTION",
+      "Bind": "MOUSE_Middle"
+    },
+    {
+      "GameAction": "ACT_SP_BULLET_FUNCTION",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_MANA_BARRIER",
+      "Bind": "KEY_B"
+    },
+    {
+      "GameAction": "ACT_MANA_BARRIER",
+      "Bind": "MOUSE_Right"
+    },
+    {
+      "GameAction": "ACT_MANA_BARRIER",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_SCOPE",
+      "Bind": "KEY_E"
+    },
+    {
+      "GameAction": "ACT_SCOPE",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_SCOPE",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_SHIP_BRAKE",
+      "Bind": "KEY_V"
+    },
+    {
+      "GameAction": "ACT_SHIP_BRAKE",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_SHIP_BRAKE",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_MANA_SAIL",
+      "Bind": "KEY_Space"
+    },
+    {
+      "GameAction": "ACT_MANA_SAIL",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_MANA_SAIL",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_MSG_LOG",
+      "Bind": "KEY_Up"
+    },
+    {
+      "GameAction": "ACT_MSG_LOG",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_MSG_LOG",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_MAP_MENU",
+      "Bind": "KEY_Left"
+    },
+    {
+      "GameAction": "ACT_MAP_MENU",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_MAP_MENU",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_ITEM_MENU",
+      "Bind": "KEY_Right"
+    },
+    {
+      "GameAction": "ACT_ITEM_MENU",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_ITEM_MENU",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_ADV_LOG",
+      "Bind": "KEY_Down"
+    },
+    {
+      "GameAction": "ACT_ADV_LOG",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_ADV_LOG",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_MSG_AUTO_SEND",
+      "Bind": "KEY_D3"
+    },
+    {
+      "GameAction": "ACT_MSG_AUTO_SEND",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_MSG_AUTO_SEND",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_CAMERA_UP",
+      "Bind": "KEY_I"
+    },
+    {
+      "GameAction": "ACT_CAMERA_UP",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_CAMERA_UP",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_CAMERA_DW",
+      "Bind": "KEY_K"
+    },
+    {
+      "GameAction": "ACT_CAMERA_DW",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_CAMERA_DW",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_CAMERA_LF",
+      "Bind": "KEY_J"
+    },
+    {
+      "GameAction": "ACT_CAMERA_LF",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_CAMERA_LF",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_CAMERA_RT",
+      "Bind": "KEY_L"
+    },
+    {
+      "GameAction": "ACT_CAMERA_RT",
+      "Bind": ""
+    },
+    {
+      "GameAction": "ACT_CAMERA_RT",
+      "Bind": ""
+    }
+  ]
+}

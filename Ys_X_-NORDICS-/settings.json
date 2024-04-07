@@ -1,0 +1,43 @@
+{
+  "ScreenMode": "WINDOWED",
+  "ExpandType": null,
+  "VSync": true,
+  "Resolution": {
+    "Width": 1600,
+    "Height": 900,
+    "Hz": 60
+  },
+  "FullScreenResolution": {
+    "Width": 720,
+    "Height": 480,
+    "Hz": 56
+  },
+  "AntiAlias": "NONE",
+  "ShadowResolution": "High",
+  "SSAO": true,
+  "SSR": true,
+  "XeSSLevel": "None",
+  "Mouse": {
+    "MoveCameraWithMouse": true,
+    "Sensitivity": 0.0
+  },
+  "ButtonPrompts": "Xbox",
+  "SwapDecideButton": false,
+  "SkipLogos": false,
+  "PauseInactiveWindow": true,
+  "VisibleMouseCursor": false,
+  "UseLowResolutionTexture": false,
+  "MaxRendering": "2K",
+  "CharacterClipping": "Normal",
+  "PlantObjects": "ON",
+  "VideoAdapter": {
+    "VendorId": 0,
+    "DeviceId": 0,
+    "SubSysId": 0,
+    "Revision": 0
+  },
+  "Decide_Bt": "PAD_A",
+  "Cansel_Bt": "PAD_B",
+  "Decide_Key": "KEY_X",
+  "Cansel_Key": "MOUSE_Left"
+}
